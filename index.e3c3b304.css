@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{background-image:url(ppt-fondo.b9cf7e7d.png);background-size:cover;margin:0;overflow:hidden}.page{flex-direction:column;display:flex}.text-container{padding:100px 0 70px}@media (width>=768px){.text-container{padding:80px 0 25px}}@media (height>=768px){.text-container{padding:150px 0 100px}}.button-container,.text-container{margin:0 auto}.hands-container{gap:50px;display:flex;position:absolute;bottom:-5px;left:50%;transform:translate(-50%)}@media (width>=768px){.hands-container{gap:65px}}
+/*# sourceMappingURL=index.e3c3b304.css.map */
