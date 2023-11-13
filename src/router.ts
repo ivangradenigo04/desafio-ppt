@@ -36,7 +36,7 @@ export function init(container: HTMLElement | null, newPath?: string) {
     const newRoute = isGithubPages() ? route.replace(BASE_PATH, "") : route;
     for (const r of routes) {
       if (r.path.test(newRoute)) {
-        if (newRoute !== "/result") {
+        if (newRoute !== "/desafio-ppt/result") {
           while (container?.firstChild) {
             container.removeChild(container.firstChild);
           }
